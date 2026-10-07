@@ -1,3 +1,11 @@
 # private dataset
 data/
 
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
